@@ -1,0 +1,16 @@
+1)Install Node JS
+
+
+2)Run following two commands in command prompt in the folder of project
+
+
+ ./mongodb/bin/mongod.exe --dbpath=./mongodb-data
+
+
+node index.js
+
+
+3)now open http://localhost:3000/ to start the web application
+4)* Internet connectivity is must*
+
+
